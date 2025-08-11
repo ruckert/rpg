@@ -89,8 +89,7 @@
 
 ### Introdução: O que é este jogo?
 
-Esta adaptação combina o universo de **Mago: A Ascensão** com as mecânicas e dinâmica de jogo do **Conspirações RPG**. O objetivo é criar uma experiência de jogo mais focada na exploração da narrativa do que o sistema Storyteller sustenta.
-
+Esta adaptação combina o universo de **Mago: A Ascensão** com as mecânicas e dinâmica de jogo do **Conspirações RPG**.
 O foco é uma experiência de Mago mais centrada na narrativa e na exploração diegética, de acordo com os princípios do Oil Fantasy.
 
 #### Três objetivos principais
